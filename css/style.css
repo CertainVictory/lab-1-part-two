@@ -51,7 +51,7 @@ flex-direction: column;
 }
 
 
-.stick_style {
+.nav_btn_style {
 
     display: flex;
     border: 0px solid #000;
@@ -159,7 +159,7 @@ flex-direction: column;
         align-content: center;
     }
 
-    .stick_style {
+    .nav_btn_style {
         width: 110px;
     }
     
